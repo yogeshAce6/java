@@ -36,6 +36,5 @@ public class SimpleIntrestCalculator {
     }
 
 
-![imageAlt](https://github.com/yogeshAce6/java/blob/7c9b18757677cba535e16ae22bf4f1642d67f20a/java/java/src/com/day2/java%20%E2%80%93%20SimpleIntrestCalculator.java%2010_29_2025%2011_21_46%20AM%20(1).png)
-            
+
 
